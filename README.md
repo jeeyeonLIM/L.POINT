@@ -12,3 +12,5 @@
 - 나. 데이터 상세 설명
   - 분석데이터 기간 : 총 6개월(‘18년 4월 ~ 9월)
   - 제공 범위 : 롯데그룹 온라인 계열사의 구매 및 이용 이력(온라인 계열사는 임의로 선정)
+
+- 최종 제출 파일 :point_right: [click!](https://github.com/jeeyeonLIM/L.POINT/blob/master/LPoint_%EC%97%98%ED%94%84_report.pdf)
